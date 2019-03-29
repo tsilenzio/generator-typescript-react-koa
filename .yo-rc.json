@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "Taylor Silenzio",
+      "authorEmail": "taylor@silenz.io",
+      "authorUrl": ""
+    }
+  }
+}
